@@ -57,6 +57,11 @@ a {
 
 .profile a {
     color: #B0B0B0;
+    &:hover,
+    &:focus {
+        color: #515151;
+        text-decoration: dotted;
+    }
 }
 
 h1 {
