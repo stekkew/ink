@@ -17,7 +17,7 @@ disqus_shortname:   "stekkew"
 
 background:         "http://www.graceannwarn.com/Slate.jpg"
 
-paginate:           2
+paginate:           0
 paginate_path:      "/page:num/"
 
 baseurl:            ""
