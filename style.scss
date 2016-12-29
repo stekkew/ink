@@ -50,7 +50,7 @@ a {
     transition: all 0.3s;
     &:hover,
     &:focus {
-        color: #EC407A;
+        color: #BDBDBD;
         text-decoration: dotted;
     }
 }
@@ -311,7 +311,7 @@ tbody tr:nth-child(odd) th {
     background-position:center;
     .img-circle {
         height: auto;
-        width: 25%;
+        width: 20%;
         border-radius: 50%;
         display: block;
         margin: 1rem 1rem 1rem;
