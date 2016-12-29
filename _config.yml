@@ -1,14 +1,14 @@
-name:               "SwiiT.me"
+name:               "SwiiT"
 description:        "Stijn Willems"
 
-url:                ""
+url:                "http://swiit.me"
 author:             "stekkew"
 email:              "info@swiit.me"
 gravatar_hash:      "4e9d7298c749f46ba4cb31bcae7c17f7"
 twitter:            "stekkew"
 email:              "info@swiit.me"
 github:             "stekkew"
-pinterest:          ""
+pinterest:          "stijn0928"
 linkedin:           "stijn-willems-6b7b4861"
 facebook:           "stekkew"
 
@@ -16,7 +16,7 @@ disqus_shortname:   "stekkew"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
-paginate:           2
+paginate:           5
 paginate_path:      "/page:num/"
 
 baseurl:            ""
