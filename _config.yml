@@ -15,7 +15,7 @@ youtube:            "stekkew"
 
 disqus_shortname:   "stekkew"
 
-background:         ""
+background:         "http://www.graceannwarn.com/Slate.jpg"
 
 paginate:           2
 paginate_path:      "/page:num/"
