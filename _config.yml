@@ -1,22 +1,22 @@
-name:               "Ink"
+name:               "Swiit"
 description:        "A minimalistic jekyll theme for humans"
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+author:             "stekkew"
+email:              "info@swiit.me"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+twitter:            "stekkew"
+email:              "info@swiit.me"
+github:             "stekkew"
+pinterest:          ""
+linkedin:           ""
+facebook:           "stekkew"
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   "stekkew"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
-paginate:           5
+paginate:           2
 paginate_path:      "/page:num/"
 
 baseurl:            ""
