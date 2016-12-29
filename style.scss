@@ -45,14 +45,18 @@ body {
 }
 
 a {
-    color: #B1B1B1;
+    color: #515151;
     text-decoration: none;
     transition: all 0.3s;
     &:hover,
     &:focus {
-        color: #BDBDBD;
+        color: #BEBEBE;
         text-decoration: dotted;
     }
+}
+
+profile a {
+    color: #B0B0B0;
 }
 
 h1 {
