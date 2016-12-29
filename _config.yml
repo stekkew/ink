@@ -30,8 +30,8 @@ nav:
     href:           "/projects"
   - name:           "Download"
     href:           "/releases"
-  - name:           "About"
-    href:           "/about"
+  - name:           "Ink"
+    href:           "/ink"
 
 sass:
   style:            :compressed
