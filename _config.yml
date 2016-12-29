@@ -15,7 +15,7 @@ youtube:            "stekkew"
 
 disqus_shortname:   "stekkew"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         ""
 
 paginate:           2
 paginate_path:      "/page:num/"
