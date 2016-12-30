@@ -14,7 +14,7 @@ youtube:            "stekkew"
 
 disqus_shortname:   "stekkew"
 
-background:         "http://www.graceannwarn.com/Slate.jpg"
+background:         "https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwjdy8-V7ZvRAhWHNFAKHZuEDdIQjRwIBw&url=https%3A%2F%2Fpixabay.com%2Fen%2Fwall-abstract-concrete-gray-white-175498%2F&psig=AFQjCNFMOh_FI9XzKGTmxilvNZWqjglXxg&ust=1483185091624146"
 
 paginate:           0
 paginate_path:      "/page:num/"
