@@ -1,7 +1,7 @@
 name:               "SwiiT"
 description:        "Stijn Willems"
 
-url:                "http://swiit.me"
+url:                "https://stekkew.github.io"
 author:             "stekkew"
 email:              "info@swiit.me"
 gravatar_hash:      "4e9d7298c749f46ba4cb31bcae7c17f7"
@@ -28,8 +28,6 @@ markdown:           kramdown
 nav:
   - name:           "Projects"
     href:           "/projects"
-  - name:           "Download"
-    href:           "/releases"
   - name:           "Ink"
     href:           "/ink"
 
