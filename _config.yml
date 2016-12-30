@@ -14,7 +14,7 @@ youtube:            "stekkew"
 
 disqus_shortname:   "stekkew"
 
-background:         "https://cdn.pixabay.com/photo/2013/08/25/00/42/wall-175498_960_720.jpg"
+background:         "https://stekkew.github.io/resources/wall-175498_1280.jpg"
 
 paginate:           0
 paginate_path:      "/page:num/"
