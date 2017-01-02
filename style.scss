@@ -341,7 +341,8 @@ tbody tr:nth-child(odd) th {
         color: #BDBDBD;
     }
     .social {
-        margin-left: 25vw;
+        margin-left: 0vw;
+        text-align: center;
         height: auto;
         width: 100%;
     }
@@ -375,7 +376,8 @@ tbody tr:nth-child(odd) th {
         .social {
             position: absolute;
             bottom: 0;
-            margin-left: 2vw;
+            margin-left: 0vw;
+            text-align: center;
             a {
                 padding: 0;
                 margin-left: 0;
