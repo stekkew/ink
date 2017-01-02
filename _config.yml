@@ -1,5 +1,5 @@
 name:               "SwiiT"
-description:        "Stijn Willems"
+description:        "Stijn Willems. IT Professional. Enjoying Life."
 
 url:                "https://stekkew.github.io"
 author:             "stekkew"
@@ -25,6 +25,8 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
+  - name:           "About Me"
+    href:           "/about"
   - name:           "Projects"
     href:           "/projects"
   - name:           "Ink"
